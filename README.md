@@ -1,7 +1,7 @@
 # JEST
 
-[1. JEST](#JEST)
-[2. TDD](#TDD)
+[1. JEST](#JEST)<p>
+[2. TDD](#TDD)<p>
 [3. Jest docs](#Jest-docs)
 
 ## JEST
